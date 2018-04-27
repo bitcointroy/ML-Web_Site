@@ -1,0 +1,44 @@
+{
+    "name": "Troy Bradley",
+    "netlify_subdomain": "https://musing-colden-8fb8a3.netlify.com/",
+    "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>",
+    "blog_post_1": {
+        "title": "<TITLE1>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "blog_post_2": {
+        "title": "<TITLE2>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "blog_post_3": {
+        "title": "<TITLE3>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "my_linkedin": "https://www.linkedin.com/in/troygbradley/",
+    "latex":"\\left[
+\\begin{array}{cc}
+9 & 9 \\\\
+6 & 10 \\\\
+5 & 7
+\\end{array}
+\\right]
+= 
+\\left[
+\\begin{array}{ccc}
+1 & 0 & 1 \\\\
+0 & 1 & 1 \\\\
+0 & 0 & 1
+\\end{array}
+\\right]
+\\dot{}
+\\left[
+\\begin{array}{cc}
+4 & 2 \\\\
+1 & 3 \\\\
+5 & 7
+\\end{array}
+\\right]"
+}
