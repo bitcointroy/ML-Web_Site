@@ -1,7 +1,7 @@
 {
     "name": "Troy Bradley",
-    "netlify_subdomain": "https://musing-colden-8fb8a3.netlify.com/",
-    "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>",
+    "netlify_subdomain": "musing-colden-8fb8a3",
+    "optional_dns": "bitcointroy.co",
     "blog_post_1": {
         "title": "Who’s who in AI",
         "url": "https://medium.com/@travlr2010/whos-who-in-ai-6d2c42be8613",
