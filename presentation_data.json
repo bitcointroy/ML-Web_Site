@@ -13,9 +13,10 @@
         "keywords": ["Education","Aritificial Intelligence","Computer Science"]
     },
     "blog_post_3": {
-        "title": "<TITLE3>",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "title": "5 Things Every Aspiring Data Scientist Should Know",
+        "url": "https://medium.com/@travlr2010/5-things-every-aspiring-data-scientist-should-know-bd9786491af3",
+        "objectives": ["Use K-fold Cross Validation to guard against overfit.", "Parameters are not the same as Hyperparameters.", "Use multiple models for best results.", "Run through the data multiple times, change your hyperparameters, and keep track.", "Use Kaggle for professional feedback."]
+        "keywords": ["Machine Learning","cross validation","Kaggle", "hyper parameters", "Naive Bayes"]
     },
     "my_linkedin": "https://www.linkedin.com/in/troygbradley/",
     "latex":"\\left[\r\n\\begin{array}{cc}\r\n9 & 9 \\\\\r\n6 & 10 \\\\\r\n5 & 7\r\n\\end{array}\r\n\\right]\r\n= \r\n\\left[\r\n\\begin{array}{ccc}\r\n1 & 0 & 1 \\\\\r\n0 & 1 & 1 \\\\\r\n0 & 0 & 1\r\n\\end{array}\r\n\\right]\r\n\\dot{}\r\n\\left[\r\n\\begin{array}{cc}\r\n4 & 2 \\\\\r\n1 & 3 \\\\\r\n5 & 7\r\n\\end{array}\r\n\\right]"
